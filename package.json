@@ -1,7 +1,7 @@
 {
   "name": "refined-github-last-read",
   "type": "module",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": true,
   "packageManager": "pnpm@9.14.2",
   "author": "Anthony Fu <anthonyfu117@hotmail.com>",

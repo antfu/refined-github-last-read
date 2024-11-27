@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Refined GitHub Last Read
 // @namespace    https://greasyfork.org/en/scripts/519044-refined-github-last-read
-// @version      0.0.0
+// @version      0.0.1
 // @description  Show the last read position of issues and pull requests in GitHub.
 // @author       Anthony Fu (https://github.com/antfu)
 // @license      MIT
