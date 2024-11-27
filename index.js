@@ -9,6 +9,8 @@
 // @supportURL   https://github.com/antfu/refined-github-last-read
 // @match        https://github.com/**
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=github.com
+// @grant        GM_getValue
+// @grant        GM_setValue
 // @grant        GM_registerMenuCommand
 // @grant        GM_unregisterMenuCommand
 // ==/UserScript==
@@ -159,7 +161,7 @@
     anchor.appendChild(right)
     timeline.after(anchor)
 
-    if (AUTO_SCROLL)
+    if (AUTO_SCROLL.value)
       anchor.scrollIntoView({ behavior: 'smooth', block: 'center' })
   }
 
