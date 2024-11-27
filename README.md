@@ -4,11 +4,13 @@ Show the last read position of issues and pull requests in GitHub.
 
 [Install on Greasyfork](https://greasyfork.org/en/scripts/519044-refined-github-last-read)
 
+<img width="890" alt="Screenshot 2024-11-27 at 20 55 26" src="https://github.com/user-attachments/assets/c024323d-59b8-447e-a88c-029d147a0e4f">
+
 ## Usage
 
 ### Configurations
 
-You can
+You should be able to see and change some options in your Tampermonkey dashboard.
 
 ### Clear Storage
 
